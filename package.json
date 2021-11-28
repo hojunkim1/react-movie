@@ -5,6 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/hojunkim1/movie-app.git",
   "license": "MIT",
+  "homepage": "https://hojunkim1.github.io/movie-app/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -38,6 +39,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://hojunkim1.github.io/movie-app/"
+  }
 }
